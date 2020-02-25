@@ -1,2 +1,2 @@
-# the code below works
+# Write a program to print hellow world.
 print("hello world")
